@@ -18,6 +18,6 @@ I am currently working on Front-End Web Dev and learning about App development i
 ![](https://github-contributor-stats.vercel.app/api?username=San9191&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=San9191&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=San9191&icon=0&color=0)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
