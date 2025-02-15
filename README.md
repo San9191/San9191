@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently working on Front-End Web Dev and learning about App development in the realm of cloud computing.
+
+Bridging the realms of Software Development and Cloud Computing.
 
 
 # 💻 Tech Stack:
