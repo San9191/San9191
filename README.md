@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
 
-Bridging the realms of Software Development and Cloud Computing.
+Navigating the realms of Software Development and Cloud Computing.
 
 
 # 💻 Tech Stack:
