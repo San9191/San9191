@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+#  About Me:
 
 Software Development and Cloud Computing.
 
