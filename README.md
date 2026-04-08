@@ -2,7 +2,7 @@
 ###  About Me:
 =========================================
 
-**Software Development | Cloud Computing | Machine Learning.**
+**Software | AI/ML | Cloud Computing **
 
 ==========================================
 
